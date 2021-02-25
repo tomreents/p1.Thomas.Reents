@@ -8,5 +8,5 @@ Project 1 URL: https://tomreents.github.io/p1.Thomas.Reents/
 <img src="https://user-images.githubusercontent.com/68446643/109210184-1c514f80-7772-11eb-9035-f15ccb61db76.GIF" width = "350">
 
 
-One of the main issues with this design is that users don't know where to start.
+One of the main issues with this design is that users don't know where to start. There are many buttons and 
 
