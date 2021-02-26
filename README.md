@@ -22,4 +22,4 @@ Besides the labels of the buttons, this microwave is not very easy to figure out
 
 One of the biggest improvements this microwave needs it to be simplified. There are too many modes and functions on this microwave when only a few will be used. Another improvement is to add a keypad. This interface does not benefit form not having a keypad, it does not save space on this interface because the buttons are just spread out. Also, a keypad is universal and everyone knows how to uses one, and it improves the time it takes to set the time because you don’t have to scroll the dial. 
 
-
+[Scan Feb 26, 2021 at 11.16 AM[1399].pdf](https://github.com/tomreents/p1.Thomas.Reents/files/6051336/Scan.Feb.26.2021.at.11.16.AM.1399.pdf)
