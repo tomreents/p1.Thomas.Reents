@@ -28,3 +28,6 @@ One of the biggest improvements this microwave needs it to be simplified. There 
 **Prototype Sketch**
 
 Touch Screen 8x5in
+
+![IMG_2611](https://user-images.githubusercontent.com/68446643/109334218-12892400-7826-11eb-8031-6390382dd9a4.jpg)
+
