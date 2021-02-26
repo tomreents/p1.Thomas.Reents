@@ -12,12 +12,12 @@ One of the main issues with this design is that users do not know where to start
 
 # Answers for B
 
-*Usage*  
+**Usage**
 The time cook function is the most common way I use a microwave and I think it is the most common way most people use a microwave. This function, although it may be called something slightly different depending on your microwave, warms food for a given amount of time. Some other less common ways I use a microwave is to thaw meet or set a timer. This interface does not make doing the most common operation easy. The common sequence of actions is to press the microwave button, then scroll through a list of modes, where time cook is located, and then select the mode by pressing the dial and then setting the desired time by turning the dial. 
 
 Besides the labels of the buttons, this microwave is not very easy to figure out how to work. One of the main reasons it is hard to work is because it is a unique interface and something most people are not familiar with. Feedback is provided to the user by button sounds and messages from the digital screen, just like most microwaves. One of the common mistakes to be made with this microwave is selecting the wrong mode, or not knowing which mode to select., because there are so many.  
 
-Improvements 
+**Improvements** 
 One of the biggest improvements this microwave needs it to be simplified. There are too many modes and functions on this microwave when only a few will be used. Another improvement is to add a keypad. This interface does not benefit form not having a keypad, it does not save space on this interface because the buttons are just spread out. Also, a keypad is universal and everyone knows how to uses one, and it improves the time it takes to set the time because you don’t have to scroll the dial. 
 
 
