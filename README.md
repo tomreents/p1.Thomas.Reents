@@ -26,4 +26,5 @@ One of the biggest improvements this microwave needs it to be simplified. There 
 # Answers for A
 
 **Prototype Sketch**
+
 Touch Screen 8x5in
