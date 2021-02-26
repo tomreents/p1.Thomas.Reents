@@ -31,7 +31,9 @@ Touch Screen 8x5in
 
 ![IMG_2611](https://user-images.githubusercontent.com/68446643/109334218-12892400-7826-11eb-8031-6390382dd9a4.jpg)
 
-![recording](https://user-images.githubusercontent.com/68446643/109335015-11a4c200-7827-11eb-9e8c-78d981b37e23.gif)
+**Implementation**
+
+![recording1](https://user-images.githubusercontent.com/68446643/109335366-8bd54680-7827-11eb-919f-b502631cefe5.gif)
 
 
 
